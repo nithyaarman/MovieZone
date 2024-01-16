@@ -1,0 +1,29 @@
+ .background-container {
+            background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWrryO2Msi_2vxNbfMvX7xQSc9QhGWh6Ak7OqZEJ0ZlZv35-c6sIDsXc6gkTWuhc6rjM&usqp=CAU");
+            background-size: cover;
+            background-position: center;
+            background-repeat:no-repeat;
+            height: 700px; 
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: paleturquoise;
+            text-align: center;
+        } 
+#mynavbar {
+            background-color:grey;
+            margin-bottom: 0px; 
+        }
+
+ .navbar {
+            background-color: aquamarine;
+            border: none;
+        }
+
+.navbar-brand {
+            color: aquamarine;
+        }
+
+ .navbar-nav > li > a {
+            color: aquamarine;
+        }
